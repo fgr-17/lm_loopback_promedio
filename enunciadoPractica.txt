@@ -1,0 +1,13 @@
+Parte práctica: 
+
+
+- Se pide hacer un algoritmo que realice el producto punto entre dos arrays en q15 y arroje el resultado en q15.
+
+- realizar un programa que permita accionar el procesamiento siguiendo los siguientes pasos:
+
+> el sistema empieza sin procesar datos
+> al presionar el boton, se debe encender el led e inicializar el adc
+> al presionar otra vez el boton, se debe comenzar a procesar, mientras el led debe parpadear
+> al presionar una vez mas el boton, el sistema debe volver al primer estado
+
+- hacer un diagrama en bloques del programa final
